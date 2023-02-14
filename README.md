@@ -29,3 +29,6 @@ The MacOS-compatible version should have the same inputs, outputs and functional
 - [ ] revision
 - [ ] final release
 
+## QUESTIONS | ISSUES
+
+Any question or issues must be added under Issues tab in Git-hub to reduce email communcation and keep data in one location.
