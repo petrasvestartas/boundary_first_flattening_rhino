@@ -6,14 +6,14 @@ Development of a MacOS-compatible Boundary First Flattening (“BFF”) componen
 
 MacOS-compatible version of the BFF component for Grasshopper 3D (running in Rhino 7). BFF is a low-distortion conformal parameterization technique which is described in more detail in ACM Transactions on Graphics, Volume 37, Issue 1, Article No: 5, pp 1–14 and https://github.com/GeometryCollective/boundary-first-flattening .
 
-** INPUT **
+**INPUT**
 * Mesh
 * Folder Path for troubleshooting
 * Map to Sphere boolean
 
 and the following outputs:
 
-** OUTPUT **
+**OUTPUT**
 * 3D of Mesh
 * 2D of Mesh (BFF)
 
