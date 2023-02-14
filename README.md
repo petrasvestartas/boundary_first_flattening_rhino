@@ -4,7 +4,7 @@
 
 - [ ] timeline 2023-02-23 - 2023-03-23
 - [ ] code development for BFF Rhino3D GH
-- [ ] code testing
+- [ ] testing
 - [ ] revision
 - [ ] final release
 
