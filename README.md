@@ -3,7 +3,7 @@
 ## MILESTONES
 
 - [ ] timeline 2023-02-23 - 2023-03-23
-- [ ] code development for bff Rhino3D GH
+- [ ] code development for BFF Rhino3D GH
 - [ ] code testing
 - [ ] revision
 - [ ] final release
