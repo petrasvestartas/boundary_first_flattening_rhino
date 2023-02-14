@@ -23,3 +23,18 @@ Optional flags:
 --normalizeUVs Scale all UVs so that they are in the range [0,1] x [0,1].
 --mapToSphere For a genus-0 surface (no holes, handles, or boundary), computes a flattening over the unit sphere rather than the plane. (See below for more detail.)
 --flattenToDisk For a topological disk, maps to the unit circular disk. (See below for more detail.)
+
+# Compilation From Source in C++
+
+
+## Clone the original repository
+```
+git clone https://github.com/GeometryCollective/boundary-first-flattening.git
+cd boundary-first-flattening && git submodule update --init --recursive
+mkdir build && cd build && cmake ..
+make -j 4
+```
+
+## Dependencies
+
+https://github.com/GeometryCollective/boundary-first-flattening/tree/master/deps
