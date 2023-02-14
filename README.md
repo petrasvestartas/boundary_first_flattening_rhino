@@ -1,5 +1,13 @@
 # 🦏 BOUNDARY FIRST FLATTENING FOR RHINO 🦏
 
+## MILESTONES
+
+- [ ] timeline 2023-02-23 - 2023-03-23
+- [ ] code development for bff Rhino3D GH
+- [ ] code testing
+- [ ] revision
+- [ ] final release
+
 ## RHINO MAC
 
 Development of a MacOS-compatible Boundary First Flattening (“BFF”) component for Grasshopper 3D (which is to run in Rhino 7).
@@ -20,14 +28,6 @@ and the following outputs:
 * 2D of Mesh (BFF)
 
 The MacOS-compatible version should have the same inputs, outputs and functionality as NGon BFF windows version. The component should  successfully on MacOS in Rhino 7 and is built as a C# component.
-
-## MILESTONES
-
-- [ ] timeline 2023-02-23 - 2023-03-23
-- [ ] code development
-- [ ] code testing
-- [ ] revision
-- [ ] final release
 
 ## QUESTIONS | ISSUES
 
