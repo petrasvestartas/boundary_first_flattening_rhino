@@ -1,4 +1,4 @@
-This folder contains Rhino wrapper of the Boundary First Flattening.
+This folder contains Rhino wrappers of the Boundary-First-Flattening.
 
 Current case:
 * Rhino Grasshopper for MAC
