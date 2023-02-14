@@ -19,7 +19,7 @@ and the following outputs:
 
 The MacOS-compatible version should have the same inputs, outputs and functionality as NGon BFF windows version. The component should  successfully on MacOS in Rhino 7 and is built as a C# component.
 
-## MILESTRONES
+## MILESTONES
 
 - [ ] timeline 2023-02-23 - 2023-03-23
 - [ ] code development
