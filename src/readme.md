@@ -11,7 +11,7 @@ To run the command line interface, simply navigate into the directory containing
 
 where in.obj is the mesh you want to flatten, and out.obj is the same mesh with the output UV coordinates.
 
-Some optional flags:
+Optional flags:
 ```
 --nCones=N_CONES 
 --normalizeUVs
