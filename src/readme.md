@@ -38,3 +38,7 @@ make -j 4
 ## Dependencies
 
 https://github.com/GeometryCollective/boundary-first-flattening/tree/master/deps
+
+## Use Console App for testing with GUI
+
+https://github.com/GeometryCollective/boundary-first-flattening/blob/master/command-line/CommandLine.cpp
