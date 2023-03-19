@@ -298,11 +298,10 @@ namespace BoundaryFirstFlatterningMac
 
                 if(success)
                 {
-                    mesh_2d.Vertices.Clear();
-                    mesh_2d.Vertices.AddVertices(vertices);
 
-                    mesh_2d.Faces.Clear();
-                    mesh_2d.Faces.AddFaces(mesh_3d.Faces);
+                    Mesh mesh_2d_remapped = new Mesh();
+                    mesh_2d_remapped.Vertices.AddVertices(vertices);
+                    mesh_2d_remapped.Faces.AddFaces(mesh_3d.Faces);
                 }
 
 
