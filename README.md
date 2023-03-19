@@ -31,11 +31,11 @@ MacOS-compatible version of the BFF component for Grasshopper 3D (running in Rhi
 
 
 **INPUT**
-* Mesh
-* Folder Path for troubleshooting
-* Map to Sphere boolean
-
-and the following outputs:
+* Mesh: Valid triangulated Mesh
+* Type: Integer 0 - flatten, 1 - map to sphere (for closed meshes only, without holes meaning now donuts), 2 - map to disk (for open meshes only)
+* Number of cones: by default the input is 0, so the algorithm decides how many points are needed, otherwise the user can decided how many cones must be placed.
+* UV - the flat geometry is mapped to unit domain
+* Vertex Order - by default the flatenned mesh has a different vertex order than the 3d mesh that would work just fine for curve remapping. If you need to keep the 
 
 **OUTPUT**
 * 3D of Mesh
