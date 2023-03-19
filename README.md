@@ -9,6 +9,8 @@
 
 ## Testing
 
+This is a cross platform version that works both on windows and mac os.
+
 Grasshopper examples files are located in "test" folder.
 
 ![image](https://user-images.githubusercontent.com/18013985/226210126-99ac20ce-2c88-4d0b-9175-9b62cdf4a176.png)
