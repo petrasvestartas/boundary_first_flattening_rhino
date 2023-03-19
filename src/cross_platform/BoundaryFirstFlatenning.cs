@@ -36,12 +36,12 @@ namespace BoundaryFirstFlatterningMac
             pManager.AddIntegerParameter("NCones", "N", "Number of cones, if set to 0, automatic number is computed", GH_ParamAccess.item, 0);
             pManager.AddBooleanParameter("NormalizeUVs", "UV", "Normalize UVs, so that they are in the range [0,1] x [0,1]", GH_ParamAccess.item, false);
             pManager.AddBooleanParameter("VertexOrder", "V", "Keep the original mesh vertex order, it can be slow, if set to true", GH_ParamAccess.item, false);
-            pManager.AddTextParameter("Path", "P", "Path of the BFF folder, only needed if component gives you error message", GH_ParamAccess.item);
+            //pManager.AddTextParameter("Path", "P", "Path of the BFF folder, only needed if component gives you error message", GH_ParamAccess.item);
             pManager[1].Optional = true;
             pManager[2].Optional = true;
             pManager[3].Optional = true;
             pManager[4].Optional = true;
-            pManager[5].Optional = true;
+            //pManager[5].Optional = true;
         }
 
         /// <summary>
@@ -80,7 +80,7 @@ namespace BoundaryFirstFlatterningMac
             DA.GetData(4, ref vertex_order);
 
             string user_path = "";
-            DA.GetData(5, ref user_path);
+            //DA.GetData(5, ref user_path);
 
             bool win_or_mac = System.Runtime.InteropServices.RuntimeInformation.IsOSPlatform(System.Runtime.InteropServices.OSPlatform.Windows);
 
@@ -296,18 +296,15 @@ namespace BoundaryFirstFlatterningMac
 
                 }
 
-                if(success)
+                // replace the output 2d mesh with the closest points
+                if (success)
                 {
-
                     Mesh mesh_2d_remapped = new Mesh();
                     mesh_2d_remapped.Vertices.AddVertices(vertices);
                     mesh_2d_remapped.Faces.AddFaces(mesh_3d.Faces);
+                    mesh_2d = mesh_2d_remapped;
                 }
 
-
-                // replace the output meshes to the remapped ones
-                //mesh_3d = mesh_3d_remapped;
-                //mesh_2d = mesh_2d_remapped;
 
             }
 
