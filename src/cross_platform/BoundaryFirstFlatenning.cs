@@ -265,8 +265,8 @@ namespace BoundaryFirstFlatterningMac
             if (win_or_mac)
             {
                 
-                BoundingBox bbox = mesh_2d.GetBoundingBox(false);
-                Vector3d vec = mesh_cleaned.Vertices[0] - mesh_2d.Vertices[0];
+                //BoundingBox bbox = mesh_2d.GetBoundingBox(false);
+                Vector3d vec = mesh_cleaned.Vertices[0] - mesh_3d.Vertices[0];
                 mesh_3d.Translate(vec);
             }
 
