@@ -281,13 +281,13 @@ namespace BoundaryFirstFlatterningMac
                 // get vertex correspondence between input mesh and bff mesh
 
                 Point3d[] vertices = new Point3d[mesh_cleaned.Vertices.Count];
-                bool success = false;
+                bool success = true;
                 for (int i = 0; i < mesh_cleaned.Vertices.Count; i++)
                 {
                     MeshPoint mp = mesh_3d.ClosestMeshPoint(mesh_cleaned.Vertices[i], 1.0);
                     if (mp == null)
                     {
-                        success = true;
+                        success = false;
                         break;
                     }
 
