@@ -1,12 +1,26 @@
 # 🦏 BOUNDARY FIRST FLATTENING FOR RHINO 🦏
 
+## Installation
+
+* Download the full repostitory by cloning the github repo or downloading the zip file (click the top right green button).
+* Go to the "build" folder: https://github.com/petrasvestartas/boundary_first_flattening_rhino/tree/main/build/BoundaryFirstFlattenning
+* Copy the "BoundaryFirstFlattenning" folder to the Grasshopper libraries folder
+* incase the files are blocked, unblock them by right click and properties (the usual Grasshopper library installation method)
+
+## Testing
+
+Grasshopper examples files are located in "test" folder.
+
+![image](https://user-images.githubusercontent.com/18013985/226210126-99ac20ce-2c88-4d0b-9175-9b62cdf4a176.png)
+
+
 ## MILESTONES
 
-- [ ] timeline 2023-02-23 - 2023-03-23
-- [ ] code development for BFF Rhino3D GH
-- [ ] testing
+- [x] timeline 2023-02-23 - 2023-03-23
+- [x] code development for BFF Rhino3D GH
+- [x] testing
 - [ ] revision
-- [ ] final release
+- [x] final release
 
 ## RHINO MAC
 
