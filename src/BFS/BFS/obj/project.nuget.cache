@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjRlp/2fCoc5OJDwItiigUAseoKXLPVGO3n2Ae7dMIyYS9VUmbmwRgrWshFLlU4JHwTpfLRFF+pf3pEK6sU12A==",
+  "success": true,
+  "projectFilePath": "/Users/vestarta/Projects/BFS/BFS/BFS.csproj",
+  "expectedPackageFiles": [
+    "/Users/vestarta/.nuget/packages/grasshopper/7.4.21078.1001/grasshopper.7.4.21078.1001.nupkg.sha512",
+    "/Users/vestarta/.nuget/packages/rhinocommon/7.4.21078.1001/rhinocommon.7.4.21078.1001.nupkg.sha512"
+  ],
+  "logs": []
+}

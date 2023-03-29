@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{97C67723-D3A1-4B17-B184-6BB1A0E1F92A}|Default">
+  <MonoDevelop.Ide.ItemProperties.BFS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BFS/ObjParser/Obj.cs">
+    <Files>
+      <File FileName="BFS/Properties/Resources/Resources.resx" Line="1" Column="1" />
+      <File FileName="BFS/BFSInfo.cs" Line="16" Column="73" />
+      <File FileName="BFS/BoundaryFirstFlatenning.cs" Line="11" Column="14" />
+      <File FileName="BFS/Properties/Resources/Resources.Designer.cs" Line="7" Column="32" />
+      <File FileName="BFS/PolylineMapMesh.cs" Line="7" Column="14" />
+      <File FileName="BFS/ObjParser/Extent.cs" Line="1" Column="1" />
+      <File FileName="BFS/ObjParser/Obj.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BFS" expanded="True">
+            <Node name="BFS" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

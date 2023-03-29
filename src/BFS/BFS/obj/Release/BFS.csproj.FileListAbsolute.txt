@@ -1,0 +1,7 @@
+/Users/vestarta/Library/Application Support/McNeel/Rhinoceros/7.0/Plug-ins/Grasshopper (b45a29b1-4343-4035-989e-044e8580d9cf)/Libraries/BFS/BFS.gha
+/Users/vestarta/Projects/BFS/BFS/obj/Release/BFS.Properties.Resources.Resources.resources
+/Users/vestarta/Projects/BFS/BFS/obj/Release/BFS.csproj.GenerateResource.cache
+/Users/vestarta/Projects/BFS/BFS/obj/Release/BFS.AssemblyInfoInputs.cache
+/Users/vestarta/Projects/BFS/BFS/obj/Release/BFS.AssemblyInfo.cs
+/Users/vestarta/Projects/BFS/BFS/obj/Release/BFS.csproj.CoreCompileInputs.cache
+/Users/vestarta/Projects/BFS/BFS/obj/Release/BFS.gha

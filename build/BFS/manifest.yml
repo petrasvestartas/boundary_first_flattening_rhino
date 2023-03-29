@@ -1,0 +1,7 @@
+---
+name: BFS
+version: 1.0.0
+authors:
+- Petras Vestartas
+description: flatten triangular meshes
+url: https://github.com/petrasvestartas/boundary_first_flattening_rhino/tree/main/build/BoundaryFirstFlattenningMAC

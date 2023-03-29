@@ -1,0 +1,10 @@
+/Users/vestarta/Projects/BFS/BFS/bin/Debug/net48/BFS.gha
+/Users/vestarta/Projects/BFS/BFS/bin/Debug/net48/BFS.pdb
+/Users/vestarta/Projects/BFS/BFS/obj/Debug/net48/BFS.csproj.AssemblyReference.cache
+/Users/vestarta/Projects/BFS/BFS/obj/Debug/net48/BFS.AssemblyInfoInputs.cache
+/Users/vestarta/Projects/BFS/BFS/obj/Debug/net48/BFS.AssemblyInfo.cs
+/Users/vestarta/Projects/BFS/BFS/obj/Debug/net48/BFS.csproj.CoreCompileInputs.cache
+/Users/vestarta/Projects/BFS/BFS/obj/Debug/net48/BFS.gha
+/Users/vestarta/Projects/BFS/BFS/obj/Debug/net48/BFS.pdb
+/Users/vestarta/Projects/BFS/BFS/obj/Debug/net48/BFS.Properties.Resources.Resources.resources
+/Users/vestarta/Projects/BFS/BFS/obj/Debug/net48/BFS.csproj.GenerateResource.cache

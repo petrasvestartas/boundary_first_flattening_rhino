@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vestarta/Projects/BFS/BFS/BFS.csproj": {}
+  },
+  "projects": {
+    "/Users/vestarta/Projects/BFS/BFS/BFS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vestarta/Projects/BFS/BFS/BFS.csproj",
+        "projectName": "BFS",
+        "projectPath": "/Users/vestarta/Projects/BFS/BFS/BFS.csproj",
+        "packagesPath": "/Users/vestarta/.nuget/packages/",
+        "outputPath": "/Users/vestarta/Projects/BFS/BFS/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vestarta/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Grasshopper": {
+              "include": "Compile, Build",
+              "target": "Package",
+              "version": "[7.4.21078.1001, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
