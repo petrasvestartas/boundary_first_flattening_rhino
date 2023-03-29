@@ -6,6 +6,7 @@
 * Go to the "build" folder: https://github.com/petrasvestartas/boundary_first_flattening_rhino/tree/main/build/BoundaryFirstFlattenning
 * Copy the "BoundaryFirstFlattenning" folder to the Grasshopper libraries folder
 * incase the files are blocked, unblock them by right click and properties (the usual Grasshopper library installation method)
+* special case for MAC. STEP1: go to grasshopper directories folder where you installed the library. STEP2: open terminal and go to "boundary_first_flatenning" directory: type "cd" and drag and drop folder "boundary_first_flatenning". STEP3: run this command in the terminal: "chmod -R 777 MacOS"
 
 ## Testing
 
